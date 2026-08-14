@@ -27,7 +27,6 @@ Aprender y aplicar conceptos fundamentales de Python para poder almacenar, organ
 
 * Python
 * Google Colab
-* Jupyter Notebook
 * GitHub
 
 ## Conclusión
